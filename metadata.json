@@ -1,0 +1,6 @@
+{
+  "name": "CLEARCALL AI",
+  "description": "Voice clarity and intelligent noise analysis companion for extreme acoustic environments like DJ events, traffic, crowds, and construction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
